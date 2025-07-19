@@ -1,8 +1,3 @@
-# My_Projects
-My _ _ _ Projects
-<br>
-java based projects
-<br>
-Author - Bhavesh Bansal
+# Student Grade System
 <br>
 Project 1 - Console based java application  "Student Grade Management System".
